@@ -1,0 +1,12 @@
+    body{  
+      background:#f4dc26;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100vh;
+      font-family: Arial;
+    }
+    img {
+      align-self:center;
+    }
